@@ -1,3 +1,3 @@
 # demo
 Learning github
-View live demo site at: saraesk.github.io/demo
+View live demo site at: http://saraesk.github.io/demo
